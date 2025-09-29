@@ -1,6 +1,6 @@
 # 🎓 Intela Platform
 
-Udemy kabi **o‘quv platforma** – kurslar yaratish, sotish va o‘qitish uchun.
+**o‘quv platforma** – kurslar yaratish, sotish va o‘qitish uchun.
 Bu repo ichida **client (frontend)** va **server (backend)** kodlari jamlangan 🖥️📱.
 
 ---
